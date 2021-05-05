@@ -8,4 +8,4 @@ se hagan a la ruta `/saludo` y responde con un `Hola Mundo`.
 
 1. npm install
 2. npm start
-3. proba que la aplicación funcione abriendo el siguiente link: [127.0.0.1:3333/saludo](127.0.0.1:3333/saludo)
+3. proba que la aplicación funcione entrando al siguiente link: [127.0.0.1:3333/saludo](127.0.0.1:3333/saludo)
